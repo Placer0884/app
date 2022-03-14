@@ -65,8 +65,10 @@ h2 {
     right: 5%;
 }
 
-
-
+.logo   {
+    width: 40vw;
+    height: 20vh;
+    margin: 50vh auto;
 }
 
 footer p   {
