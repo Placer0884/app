@@ -10,7 +10,6 @@
 
 body{
     background: #808080;
-    background: lime;
 }
 
 
@@ -52,7 +51,7 @@ h2 {
     color: #000;
 }
 
-.buttons{
+buttons{
     display: inline-block;
 }
 
@@ -66,10 +65,30 @@ h2 {
     right: 5%;
 }
 
-.logo   {
-    width: 40vw;
-    height: 20vh;
+
+.danger {
+    background: red;
+
+    text-align: center;
+    font-size: 40vw;
+
+    width: 70vw;
+    height: 70vw;
+    border: navy .1vw solid;
+    border-radius: 100%;
+
+
+    margin: 60% auto;
 }
+
+.danger:hover   {
+    background: #808080;
+}
+.danger p {
+    padding-top: 43%;
+}
+
+
 
 footer p   {
     font-size: 3vw;
