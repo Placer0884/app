@@ -1,6 +1,6 @@
 {
     "name": "This is an app",
-    "short_name": ".App",
+    "short_name": "App",
     "start_url": "index.html",
     "lang": "en-US",
     "background_color": "#37258a",
